@@ -1,0 +1,19 @@
+ONLY ONCE
+To install typescript global :::::: npm install -g typescript
+
+______________________________________________________
+
+Create node project >> for install pkg :::::: npm init -y
+
+for tsconfig ::::  tsc --init
+
+for Sync ::::::::::  tsc --watch
+
+
+ 
+_____________________________
+install prompt package :::: npm i prompt-sync
+
+
+for removing require error  
+include types in project ::::::  npm i @types/node -D
