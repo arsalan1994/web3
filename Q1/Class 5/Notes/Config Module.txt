@@ -1,0 +1,13 @@
+package.json --------------------
+
+Add "type": "module",
+
+tsconfig.json
+
+
+Changes
+
+
+   "module": "commonjs",   =>    "module": "NodeNext", 
+
+Uncomment => "moduleResolution": "node10", and replace with  "moduleResolution": "NodeNext", 

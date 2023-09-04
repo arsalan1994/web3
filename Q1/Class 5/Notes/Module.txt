@@ -1,0 +1,25 @@
+To handle Modules
+
+1- CommonJs  (Node js uses)
+2- Es Modules (ECMA Script) latest version 2013
+
+
+****************------------CommonJs -------------***************
+ext types (.cts .cjs) 
+
+require("")
+module.export
+
+Support Sync programming
+Sync -> At a time one task execute
+
+
+
+***************-------------Es Modules -------------***************
+ext types  (.mts .mjs)
+import
+export
+
+Support Async Programming 
+Sync -> Multiple task perform at the same time
+****************************************
